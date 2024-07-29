@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ashishsingh2830
 - 👀 I’m interested in (web development,graphic design,python gui based programming)
 - 🌱 I’m currently learning ...(front end development)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...www.linkedin.com/in/ashish-singh-551909214
 
 <!---
